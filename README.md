@@ -1,6 +1,6 @@
 # Nuxt Hackernews
 
-You can view this application [here](https://nuxt-hackernews.netlify.app/)
+You can view this application [here](https://nuxt-hackernews.netlify.app/). Deploy to Netlify function (resource error currently on edge deploy).
 
 ## Setup
 
