@@ -1,6 +1,6 @@
 # Nuxt Hackernews
 
-This is still a work in progress. We covered it on stream and hit a few bugs. As Nuxt 3 stabilizes for release we will revisit and finish up.
+You can view this application [here](https://nuxt-hackernews.netlify.app/)
 
 ## Setup
 
